@@ -1,0 +1,15 @@
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.csproj.AssemblyReference.cache
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.AssemblyInfoInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.AssemblyInfo.cs
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.csproj.CoreCompileInputs.cache
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\bin\Debug\net6.0\Ficha_heranacas.exe
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\bin\Debug\net6.0\Ficha_heranacas.deps.json
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\bin\Debug\net6.0\Ficha_heranacas.runtimeconfig.json
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\bin\Debug\net6.0\Ficha_heranacas.dll
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\bin\Debug\net6.0\Ficha_heranacas.pdb
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.dll
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\refint\Ficha_heranacas.dll
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.pdb
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\Ficha_heranacas.genruntimeconfig.cache
+C:\Users\diogduarte\Documents\GitHub\Ficha-POO-heran-as\Ficha_heranacas\Ficha_heranacas\obj\Debug\net6.0\ref\Ficha_heranacas.dll
